@@ -1,5 +1,6 @@
 #python==3.13.3
+distutils
 pip==25.1.1
-numpy==1.23.5  
-pandas==2.0.1  
+numpy==1.24.4  
+pandas==2.0.3 
 streamlit==1.40.1 
